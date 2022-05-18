@@ -1,0 +1,1 @@
+## Learning better ways of restructuring Laravel folder for enterprise application
